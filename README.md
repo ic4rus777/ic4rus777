@@ -2,10 +2,10 @@
 <img src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="350px"/> 
 </div>
 
-<h1>
+
 <div id="header" align="center">
  Hi
-</h1>
+</div>
 
 ---
 ### :robot: About Me:

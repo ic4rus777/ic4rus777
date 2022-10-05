@@ -2,21 +2,18 @@
 <img src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="350px"/> 
 </div>
 
-
 <div id="header" align="center">
 <h1>
 Hi
 </h1>
 </div>
 
-<div id="header" align="center">
 ### :robot: About Me:
 - 🇩🇪 Italian studying abroad in Germany.
 - 👁️ Interested in Modding and CyberSecurity.
 - 🚁 Currently on the way to work with Drones
 - 🫀 Looking to connect with Hardware Enthusiasts 
 - 📫 Searching for a "Flipper" 
-</div>
 
 ---
 ### :eye_speech_bubble: Languages and Tools:

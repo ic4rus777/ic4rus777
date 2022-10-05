@@ -1,3 +1,6 @@
+<div id="header" align="center">
+ <img src="https://giphy.com/gifs/JetBrains-programming-programmer-jetbrains-IWiAPmq1HS)QZRu8PT" width="100"/> 
+</div>
 - 🇩🇪 Italian studying abroad in Germany.
 - 👁️ Interested in Modding and Security.
 - 🚁 Currently working with Drones

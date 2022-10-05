@@ -11,7 +11,7 @@
 ### :robot: About Me:
 - 🇩🇪 Italian studying abroad in Germany.
 - 👁️ Interested in Modding and Security.
-- 🚁 Currently working with Drones
+- 🚁 Currently on the way to work with Drones
 - 🫀 Looking to connect with Hardware Enthusiasts 
 - 📫 Searching for a "Flipper" 
 

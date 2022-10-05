@@ -1,13 +1,29 @@
 <div id="header" align="center">
- <img src="https://giphy.com/gifs/JetBrains-programming-programmer-jetbrains-IWiAPmq1HS)QZRu8PT" width="100"/> 
+<img src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="350px"/> 
 </div>
+
+<h1>
+<div id="header" align="center">
+ Hi
+</h1>
+
+---
+### :robot: About Me:
 - 🇩🇪 Italian studying abroad in Germany.
 - 👁️ Interested in Modding and Security.
 - 🚁 Currently working with Drones
 - 🫀 Looking to connect with Hardware Enthusiasts 
 - 📫 Searching for a "Flipper" 
 
-<!---
-ic4rus777/ic4rus777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+### :eye_speech_bubble: Languages and Tools:
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="40" lenght="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" lenght="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" width="40" lenght="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/msdos/msdos-original.svg" width="40" lenght="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width="40" lenght="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width="40" lenght="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="40" lenght="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" lenght="40" />&nbsp;
+</div>

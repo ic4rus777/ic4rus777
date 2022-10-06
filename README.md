@@ -9,7 +9,7 @@ Hi
 </div>
 
 ### :robot: About Me:
-- 🇩🇪 Italian studying abroad in Germany.
+- 🇩🇪 Italian studying/living in Germany.
 - 👁️ Interested in Modding and CyberSecurity.
 - 🚁 Currently on the way to work with Drones
 - 🫀 Looking to connect with Hardware Enthusiasts 

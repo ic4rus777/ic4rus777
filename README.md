@@ -13,7 +13,7 @@ Hi
 - 👁️ Interested in Modding and CyberSecurity.
 - 🚁 Currently on the way to work with Drones
 - 🫀 Looking to connect with Hardware Enthusiasts 
-- 📫 Searching for a "Flipper" 
+- 📫 Flipper Enthusiast 
 
 ---
 ### :eye_speech_bubble: Languages and Tools:
